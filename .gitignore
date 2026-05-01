@@ -1,0 +1,17 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+allarray1km_timeseries_5min.jsonl
+allarray1km_timeseries_5min_old.jsonl
+.env/
+.venv/
+env/
+venv/
+*.csv
+*.gif
+test_total.ipynb
+test*.ipynb
+result_plot
+overleaf_paper/*.jsonl
